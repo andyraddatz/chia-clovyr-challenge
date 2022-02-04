@@ -26,6 +26,6 @@ I had not yet worked out how to implement anonymity but I believe some simple ag
 
 ## Progress Made
 
-Basically I made a few `.clsp` files and copied the puzzles from the Single Issuance CAT and Pooling Member puzzles, and only got to making minor first tweaks.  I think that no matter what I will continue and try to make this functional since it's an idea I've had for a long time, but Chia is the first blockchain that feels capable to truly support it.
+Basically I made a few `.clsp` files and copied the puzzles from the Chialisp docs that I thought made sense, and only got to very minor first tweaks.  I think that no matter what I will continue and try to make this functional since it's an idea I've had for a long time, but Chia is the first blockchain that feels capable to truly support it.
 
 THANK YOU CHIA AND CLOVYR TEAMS!!
