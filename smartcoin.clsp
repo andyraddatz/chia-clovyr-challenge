@@ -1,0 +1,26 @@
+(mod 
+    ( ; arguments that solve the puzzle
+        arg_one,
+        arg_two
+    )
+
+  ; import op code library
+  (include condition_codes.clib) 
+
+  ; define any constants
+  (defconstant CONSTANT 100) 
+
+  ; define any functions
+  (defun-inline function_name (arguments)
+    (list (list))
+  )
+
+  ; main program flow
+  (if ()
+    (
+      ; do if true
+      ; CONDITIONS, ASSERTIONS, and other logic goes in here
+    )
+    (x) ; else abort
+  )
+)
